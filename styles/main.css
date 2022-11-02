@@ -1,0 +1,32 @@
+.wrapper{
+	width: 600px;
+	border: 2px solid black;
+	margin: 100px auto;
+	padding: 20px;
+	border-radius: 10px;
+	background-color: lightgreen;
+}
+
+.block{
+	width: 500px;
+	height: 220px;
+	border: 2px solid red;
+	padding: 15px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.block-1{
+	margin-bottom: 30px;
+	background-color: blue;
+	color: yellow;
+}
+
+.block-2{
+	background-color: yellow;
+	margin-top: -20px;
+	color: blue;
+	box-sizing: border-box;
+	width: 534px;
+	height: 254px;
+}
